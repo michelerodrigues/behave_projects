@@ -1,4 +1,4 @@
-Feature: A Step uses a User-Defined Type as Step Parameter (tutorial10)
+Feature: a calculator that add two numbers
 
 	Scenario Outline: Calculator
 		Given I have a calculator
