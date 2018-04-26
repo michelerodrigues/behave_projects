@@ -1,2 +1,2 @@
-# behave_projects
-Behave projects
+# Calculator behave project
+Testing behave functionalities
